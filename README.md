@@ -8,3 +8,4 @@ the fear of a "wipeout". Using collected meterological data from reporting weath
 statistical rainfall analysis for presentation by the client to the prospective investor.
 
 ## Results
+![](Resources/fig1.png)
