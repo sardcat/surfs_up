@@ -9,8 +9,10 @@ has prepared statistical temperature analysis for presentation by the client to 
 
 ## Results
 Figure 1.) Temperature Statistics for the Month of June 2010-2018
+
 ![](Resources/fig1.png)
 
 Figure 2.) Temperature Statistics for the Month of Decemnber 2010-2018
+
 ![](Resources/fig2.png)
 
