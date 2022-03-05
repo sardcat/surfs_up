@@ -8,7 +8,9 @@ December: typical high wave and tourist months. Using collected meterological da
 has prepared statistical temperature analysis for presentation by the client to the prospective investor.
 
 ## Results
-Figure 1.) Temperature Statistics for the Month of June 2010-2018![](Resources/fig1.png)
+Figure 1.) Temperature Statistics for the Month of June 2010-2018
+![](Resources/fig1.png)
 
-Figure 2.) Temperature Statistics for the Month of Decemnber 2010-2018![](Resources/fig2.png)
+Figure 2.) Temperature Statistics for the Month of Decemnber 2010-2018
+![](Resources/fig2.png)
 
